@@ -11,9 +11,9 @@ namespace LineComputeProblem
         public static void Main()
         { 
            Console.WriteLine("Welcome to Line Comparison Computation Program");
-            //UC1_Line.Main1();
+            UC1_Line.Main1();
             //Uc2_line.Main1();
-            Uc3_line.Main2();
+            //Uc3_line.Main2();
 
 
         }
