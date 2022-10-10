@@ -32,6 +32,10 @@ namespace LineComputeProblem
             {
                 Console.WriteLine("line 01 and line 02 are equal and has equal length");
             }
+            else
+            {
+                Console.WriteLine("line 01 and line 02 are unequal");
+            }
         }
     }
 
