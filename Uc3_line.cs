@@ -32,11 +32,11 @@ namespace LineComputeProblem
             {
                 Console.WriteLine("line 01 and line 02 are equal and has equal length");
             }
-            if (L1 > L2)
+            else if (L1 > L2)
             {
                 Console.WriteLine("line 01 is greater  than line 02 ");
             }
-            if (L1 < L2)
+            else
             {
                 Console.WriteLine("line 02 is greater  than line 01 ");
             }
